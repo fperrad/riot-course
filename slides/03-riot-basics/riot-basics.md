@@ -468,7 +468,7 @@ Follow the instructions in the notebook **riot/basics/timers/timers.ipynb**
 
   - Vendor independent implementations
 
-- See `tests/periph_*` application for usage examples
+- See `tests/periph/*` application for usage examples
 
 - See APIs documentation: http://doc.riot-os.org/group__drivers__periph.html
 
@@ -603,7 +603,7 @@ Follow the instructions in the notebook **riot/basics/rtc/rtc.ipynb**
 
 --
 
-&#x21d2; good example applications provided in `tests/periph_*`
+&#x21d2; good example applications provided in `tests/periph/*`
 
 ---
 
